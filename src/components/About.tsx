@@ -19,7 +19,7 @@ const influences = [
   },
   {
     name: 'Ansh Mehra',
-    image: 'https://yt3.googleusercontent.com/-ZLz5qtYId99_zMI7y9I2fGsyjgxjYwRBGJRKM-k0KpYXv3lr8_QPs_N3vB1HE43ZaGzmrDm=s900-c-k-c0x00ffffff-no-rj',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQGjCkwcN6SR0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724329848480?e=1735776000&v=beta&t=j6xz1cVwmoMm-qADuTBwsvrRbyOBRsmWyVjjcZQtxLI',
     channel: 'https://www.youtube.com/@anshmehra'
 }
 ];
