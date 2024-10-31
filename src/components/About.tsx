@@ -12,12 +12,11 @@ const influences = [
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AkrZXROqV6y9_ZESTww28-QjfQ7UdfaKZA&s',
     channel: 'https://www.youtube.com/@DanMace'
   },
-  {a
+  {
     name: 'Ali Abdaal',
     image: 'https://aliabdaal.com/wp-content/themes/Ali-Abdaal-Production/content/ali-abdaal-youtuber-author-podcaster-productivity-expert-feel-good-productivity-book.jpg',
     channel: 'https://www.youtube.com/@aliabdaal'
-  }
-  
+  },
   {
     name: 'Ansh Mehra',
     image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fanshmehra24&psig=AOvVaw1XKDE2PhNtnCm5uLqx9M9S&ust=1730448096435000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiIqtOTuIkDFQAAAAAdAAAAABAE',
