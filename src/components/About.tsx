@@ -19,9 +19,9 @@ const influences = [
   }
   
   {
-    name: '',
-    image: '',
-    channel: 'https://www.youtube.com/@aliabdaal'
+    name: 'Ansh Mehra',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fanshmehra24&psig=AOvVaw1XKDE2PhNtnCm5uLqx9M9S&ust=1730448096435000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiIqtOTuIkDFQAAAAAdAAAAABAE',
+    channel: 'https://www.youtube.com/@anshmehra'
 }
 ];
 
