@@ -12,11 +12,17 @@ const influences = [
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AkrZXROqV6y9_ZESTww28-QjfQ7UdfaKZA&s',
     channel: 'https://www.youtube.com/@DanMace'
   },
-  {
+  {a
     name: 'Ali Abdaal',
     image: 'https://aliabdaal.com/wp-content/themes/Ali-Abdaal-Production/content/ali-abdaal-youtuber-author-podcaster-productivity-expert-feel-good-productivity-book.jpg',
     channel: 'https://www.youtube.com/@aliabdaal'
   }
+  
+  {
+    name: '',
+    image: '',
+    channel: 'https://www.youtube.com/@aliabdaal'
+}
 ];
 
 export default function About() {
